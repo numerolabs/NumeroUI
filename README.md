@@ -1,6 +1,6 @@
 [![MIT licensed](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/rastersize/Transmogrify/blob/master/LICENSE)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![Build Status](https://travis-ci.org/numerolabs/NumeroUI/Transmogrify.svg)](https://travis-ci.org/numerolabs/NumeroUI)
+[![Build Status](https://travis-ci.org/numerolabs/NumeroUI.svg)](https://travis-ci.org/numerolabs/NumeroUI)
 
 # № UI
 The _№ UI_ framework provides UI tools to make writing iOS interfaces easier and quicker.
