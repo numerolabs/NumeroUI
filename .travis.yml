@@ -1,6 +1,10 @@
 language: objective-c
 osx_image: xcode7.2
-xcode_scheme: NumeroUI
+sudo: false
+branches:
+  only:
+    - master
+    - /^release-.*$/
 env:
   global:
     - LC_CTYPE=en_US.UTF-8
